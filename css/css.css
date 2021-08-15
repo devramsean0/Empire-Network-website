@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap");
+body {
+  background-color: black;
+}
+
+.headfont {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: white;
+}
+
+.content {
+  background-color: white;
+}
+
+.contentfont {
+  font-family: 'Nanum Myeongjo', serif;
+  color: black;
+}
+/*# sourceMappingURL=css.css.map */
