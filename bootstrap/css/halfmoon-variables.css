@@ -165,9 +165,9 @@ CSS variables (CSS custom properties)
         dark themes.
     */
 
-    --dark-color: #d82a1d;
-    --dark-color-light: #bb271c;
-    --dark-color-dark: #000000;
+    --dark-color: #110e0e;
+    --dark-color-light: #1f1919;
+    --dark-color-dark: #0f0f0f;
 
     /* Gray colors */
     

@@ -5,7 +5,7 @@
 .countup .timeel {
   display: inline-block;
   padding: 2px;
-  background: #bb271c;
+  background: #1f1919;
   margin: 0;
   color: black;
   min-width: 2.6rem;
@@ -16,7 +16,7 @@
 .countup span[class*="timeRef"] {
   border-radius: 0 10px 10px 0;
   margin-left: 0;
-  background: #bb271c;
+  background: #1f1919;
   color: white;
 }
 /*# sourceMappingURL=age.css.map */
